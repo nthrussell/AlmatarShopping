@@ -53,7 +53,7 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		84429C8F2E43A8E100E3F73C /* Exceptions for "AlmatarShopping" folder in "Embed Frameworks" phase from "AlmatarShopping" target */ = {
+		84429CAE2E43B86400E3F73C /* Exceptions for "AlmatarShopping" folder in "Embed Frameworks" phase from "AlmatarShopping" target */ = {
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			attributesByRelativePath = {
 				ALSLFramework.framework = (CodeSignOnCopy, RemoveHeadersOnCopy, );
@@ -70,7 +70,7 @@
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				84113C802E41EFDE00344A17 /* Exceptions for "AlmatarShopping" folder in "AlmatarShopping" target */,
-				84429C8F2E43A8E100E3F73C /* Exceptions for "AlmatarShopping" folder in "Embed Frameworks" phase from "AlmatarShopping" target */,
+				84429CAE2E43B86400E3F73C /* Exceptions for "AlmatarShopping" folder in "Embed Frameworks" phase from "AlmatarShopping" target */,
 			);
 			path = AlmatarShopping;
 			sourceTree = "<group>";
